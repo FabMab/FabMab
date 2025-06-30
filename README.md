@@ -29,7 +29,7 @@ const FabMab = {
    },
    fields_of_Interest :["Software Development", "Data Science", "Machine Learning"]  
    currentFocus:"Machine Learning"
-   2025_Goals: ["Create 10  Machine Learning Projects."]
+   2025_Goals: "Create 10 Machine Learning Projects."
    hobbies: ["Cinema", "running", "Art"]
 };
 
