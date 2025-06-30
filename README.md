@@ -57,6 +57,9 @@ hobbies: ["Cinema", "running", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" "alt="MS SQL Server" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
 
+<!--  [![FabMab's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabMab)](https://github.com/FabMab/github-readme-stats)
 
+
+![Snake animation](https://github.com/FabMab/FabMab/blob/output/github-contribution-grid-snake.svg)  -->
 
 
