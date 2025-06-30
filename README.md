@@ -1,4 +1,4 @@
-## Hi there, I'm Fabrice 👋
+## Hey, I'm Fabrice 👋
 
 <!--
 **FabMab/FabMab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ```yaml
 name: Fabrice Mabushi
-located_in: Bristol, UK
-current_job: Full Stack Developer
+located_in: United Kingdom
+current_occupation: Software Consultant
 education:
   [
     "Master's in Software Engineering",
@@ -29,22 +29,14 @@ education:
 fields_of_interests:
   [
     "Software Development",
-    "Data Science",
-    "Machine Learning",
-    "Back-end Development",
     "DevOps",
-  ]
-technical_background:
-  [
-    "Software Developer Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Backend Development",
+    "Machine Learning",
+    "Data Science",   
   ]
   
 currently_learning: ["Machine Learning"]
-2025 Goals: ["Create 25+  MAchine Learning Projects ."]
+2025 Goals: ["Create 10  Machine Learning Projects."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
 
