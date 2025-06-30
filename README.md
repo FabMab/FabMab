@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Fabrice Mabushi
 location: United Kingdom
-current_occupation: Freelance Software Developer & Consultant
+current_occupation: Freelance/Contract Software Developer & Consultant
 education:
   [
     "Master's in Software Engineering",
