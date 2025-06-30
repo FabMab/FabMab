@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 ```yaml
 name: Fabrice Mabushi
-located_in: United Kingdom
-current_occupation: Software Consultant
+location: United Kingdom
+current_occupation: Freelance Software Developer & Consultant
 education:
   [
     "Master's in Software Engineering",
-    "Bachelor's Computing",
+    "Bachelor's in Computing",
   ]
 
 fields_of_interests:
@@ -37,7 +37,7 @@ fields_of_interests:
   
 currently_learning: ["Machine Learning"]
 2025 Goals: ["Create 10  Machine Learning Projects."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Cinema", "running", "Art"]
 ```
 
 <h3>Tools and languages I have used and learned</h3>
