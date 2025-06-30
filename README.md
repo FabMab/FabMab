@@ -1,4 +1,4 @@
-## Hey, I'm Fabrice 👋
+## Hi! I'm Fabrice
 
 <!--
 **FabMab/FabMab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
