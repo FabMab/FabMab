@@ -25,7 +25,7 @@ const FabMab = {
        tools:[".NET", "ASP.NET", "Laravel","Visual Sudio", "IntelliJ", "SQL Server Management Studio"],
        databases:["SQL/MySQL","PostgreSQL"],
        os:["Windows","linux"],
-       cloud:["azure","Cloudflare"] ,
+       cloud:["Azure","Cloudflare"] ,
    },
    fields_of_Interest:["Software Development", "Data Science", "Machine Learning"],  
    currentFocus:"Machine Learning",
