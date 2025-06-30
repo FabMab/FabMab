@@ -14,33 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>A little bit about me and my interests</h3>
+<h3>A little bit about me and my interests:</h3>
 
-```yaml
-name: Fabrice Mabushi
-location: United Kingdom
-current_occupation: Freelance/Contract Software Developer & Consultant
-education:
-  [
-    "Master's in Software Engineering",
-    "Bachelor's in Computing",
-  ]
+```javascript
+const FabMab = {
+   Work: "Freelance/Contract Software Developer & Consultant"
+   location:"United Kingdom"
+   technologies: {
+       languages: ["C#","Typescript","Javascript","Java", "Phyton","PHP"]
+       tools: [".NET", "ASP.NET", "Laravel","Visual Sudio", "IntelliJ", "SQL Server Management Studio"]
+       databases:["SQL/MySQL","PostgreSQL"]
+       os:["Windows","linux"]
+       cloud:["azure","Cloudflare"] 
+  },
+  fields_of_Interest :["Software Development", "Data Science", "Machine Learning"]  
+  currentFocus:"Machine Learning"
+  2025_Goals: ["Create 10  Machine Learning Projects."]
+  hobbies: ["Cinema", "running", "Art"]
+};
 
-fields_of_interests:
-  [
-    "Software Development",
-    "DevOps",
-    "Backend Development",
-    "Machine Learning",
-    "Data Science",   
-  ]
-  
-currently_learning: ["Machine Learning"]
-2025 Goals: ["Create 10  Machine Learning Projects."]
-hobbies: ["Cinema", "running", "Art"]
+console.info(FabMab);
+
 ```
 
-<h3>Tools and languages I have used and learned</h3>
+<h3>Languages and Tools:</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt ="VisyalStudio"width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" height="45"/>
@@ -49,6 +46,7 @@ hobbies: ["Cinema", "running", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="45" height="45" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"//> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue.js" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
@@ -56,6 +54,7 @@ hobbies: ["Cinema", "running", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" "alt="SQL" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" "alt="MS SQL Server" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"//>
 
 <!--  [![FabMab's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabMab)](https://github.com/FabMab/github-readme-stats)
 
