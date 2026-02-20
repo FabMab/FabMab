@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 
 ```javascript
 const FabMab = {
-   Work:"Freelance/Contract Software Developer & Consultant",
+   Work:"Software Developer Consultant",
    location:"United Kingdom",
    technologies: {
-       languages:["C#","Typescript","Javascript","Java", "Phyton","PHP"],
-       tools:[".NET", "ASP.NET", "Laravel","Visual Sudio", "IntelliJ", "SQL Server Management Studio"],
+       languages:["C#","Java","Javascript", "Phyton","Typescript","PHP"],
+       tools & frameworks:[".NET", "ASP.NET", "Laravel","Visual Sudio", "IntelliJ", "SQL Server Management Studio"],
        databases:["SQL/MySQL","PostgreSQL"],
        os:["Windows","linux"],
        cloud:["Azure","Cloudflare"] ,
    },
    fields_of_Interest:["Software Development", "Data Science", "Machine Learning"],  
    currentFocus:"Machine Learning",
-   2025_Goals: "Contribute to/Create 10 Machine Learning Projects.",
+   2026_Goals: "Contribute to/Create 10 Machine Learning Projects.",
    hobbies:["Cinema", "Running", "Art"]
 };
 
