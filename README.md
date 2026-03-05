@@ -25,12 +25,12 @@ const FabMab = {
        tools & frameworks:[".NET", "ASP.NET", "Laravel","Visual Sudio", "IntelliJ", "SQL Server Management Studio"],
        databases:["SQL/MySQL","PostgreSQL"],
        os:["Windows","linux"],
-       cloud:["Azure","Cloudflare"] ,
+       cloud:["Azure"] ,
    },
-   fields_of_Interest:["Software Development", "Data Science", "Machine Learning"],  
+   fields_of_Interest:["Software Egineering", "Data Science", "Machine Learning"],  
    currentFocus:"Machine Learning",
    2026_Goals: "Contribute to/Create 10 Machine Learning Projects.",
-   hobbies:["Cinema", "Running", "Art"]
+   hobbies:["Cinema", "Running", "Drawing"]
 };
 
 console.info(FabMab);
