@@ -30,7 +30,7 @@ const FabMab = {
    fields_of_Interest:["Software Egineering", "Data Science", "Machine Learning"],  
    currentFocus:"Machine Learning",
    2026_Goals: "Contribute to/Create 10 Machine Learning Projects.",
-   hobbies:["Cinema", "Running", "Drawing"]
+   hobbies:["Running", "Technical Sketching, Digital Art"]
 };
 
 console.info(FabMab);
