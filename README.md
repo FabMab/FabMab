@@ -37,7 +37,7 @@ console.info(FabMab);
 
 ```
 
-<h3>Languages and Tools:</h3>
+<h3>Languages, Frameworks and Tools:</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
