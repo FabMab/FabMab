@@ -39,8 +39,6 @@ console.info(FabMab);
 
 <h3>Languages and Tools:</h3>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VisualStudio" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
@@ -49,6 +47,8 @@ console.info(FabMab);
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue.js" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VisualStudio" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" style="margin:0 10px 8px 0;display:inline-block;" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
