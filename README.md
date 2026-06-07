@@ -1,6 +1,12 @@
-[![LeetCode user FabMak](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFabMak&logo=leetcode&logoColor=yellow)](https://leetcode.com/FabMak/)
+<div>
+  <a href="https://Leetcode/FabMak">
+      <img align ="left" src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFabMak&logo=leetcode&logoColor=yellow"/>
+   </a> 
+      <img align = "right" src ="https://komarev.com/ghpvc/?username=FabMab&color=green">
+</div>
+<br/>
 
-## Hi! I'm Fabrice
+<h4>Welcome to my GitHub Profile!</h4>
 
 <!--
 **FabMab/FabMab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>A little bit about me and my interests:</h3>
+<h4>A little bit about me and my interests:</h4>
 
 ```javascript
 const FabMab = {
@@ -39,7 +45,7 @@ console.info(FabMab);
 
 ```
 
-<h3>Languages, Frameworks and Tools:</h3>
+<h4>Languages, Frameworks and Tools:</h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
@@ -58,9 +64,8 @@ console.info(FabMab);
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" style="margin:0 10px 8px 0;display:inline-block;" />
 </p>
-<!-- [![FabMab's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabMab)](https://github.com/FabMab/github-readme-stats)-->
+<!--[![FabMab's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabMab)](https://github.com/FabMab/github-readme-stats)-->
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=FabMab&color=green)
 
 
